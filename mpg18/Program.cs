@@ -8,6 +8,7 @@ namespace mpg18
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("line 2");
+            Console.WriteLine("line 3");
         }
     }
 }
